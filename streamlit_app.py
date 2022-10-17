@@ -3,7 +3,7 @@ import streamlit
 import pandas
 
 #App Title
-streamlit.title('My Parents New Healthy Diner')
+streamlit.title('My Mom\'s New Healthy Diner')
 
 #Menu Header
 streamlit.header('Breakfast Favorites')
