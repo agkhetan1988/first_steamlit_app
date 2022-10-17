@@ -23,4 +23,4 @@ streamlit.text('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 streamlit.multiselect("Pick some fruits: ", list(my_fruit_list.index))
 
 #Display the table on the page
-streamlist.dataframe(my_fruit_list)
+streamlit.dataframe(my_fruit_list)
